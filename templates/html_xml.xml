@@ -1,0 +1,3 @@
+<templateSet group="html/xml">
+  <template name="{" value="{{}}" description="{{}}" toReformat="true" toShortenFQNames="true" />
+</templateSet>

@@ -1,0 +1,10 @@
+<templateSet group="user">
+  <template name="/**" value="/**&#10;*@fileName:$fileName$&#10;*@author:fdc&#10;*@time:$nowtime$&#10;*@disc:&#10;*/" description="代码块注释" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="nowtime" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="fun" value="function (){&#10;    return ;&#10;}" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
