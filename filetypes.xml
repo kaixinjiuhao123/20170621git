@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="www" type="ActionScript" />
+      <mapping pattern="改了多个属性值问题" type="PLAIN_TEXT" />
+      <mapping pattern="改了购物车右上小红点" type="PLAIN_TEXT" />
+      <mapping pattern="jiayao" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
