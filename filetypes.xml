@@ -4,10 +4,6 @@
     <extensionMap>
       <mapping pattern="www" type="ActionScript" />
       <mapping ext="vm" type="HTML" />
-      <mapping pattern="改了多个属性值问题" type="PLAIN_TEXT" />
-      <mapping pattern="改了购物车右上小红点" type="PLAIN_TEXT" />
-      <mapping pattern="jiayao" type="PLAIN_TEXT" />
-      <mapping pattern="content.vue" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
