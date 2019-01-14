@@ -15,11 +15,11 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.htm</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
