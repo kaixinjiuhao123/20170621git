@@ -19,7 +19,6 @@
       <mask>*。</mask>
       <mask>*。</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -27,6 +26,7 @@
       <mask>*.</mask>
       <mask>*.</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
